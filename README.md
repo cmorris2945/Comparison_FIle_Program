@@ -6,5 +6,5 @@ This program takes files from two different pipelines that analyze NGS molecular
 
 
 
+https://www.aacc.org/-/media/Images/Publications/CLN/Articles/2020/March/Figure-1.jpg?la=en&hash=0B5EE65F2E9017491275236556AF18EE060E764D![image](https://user-images.githubusercontent.com/30676606/192114699-49c69332-1efb-4882-a05d-828a4c71fb79.png)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aacc.org%2Fcln%2Farticles%2F2020%2Fmarch%2Fnext-generation-sequencing-bioinformatics-pipelines&psig=AOvVaw1OXnsAH2T1hbND_tyrQesj&ust=1664132780228000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjIxu6PrvoCFQAAAAAdAAAAABAq
