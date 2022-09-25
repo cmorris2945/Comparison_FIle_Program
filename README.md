@@ -5,6 +5,12 @@ This program takes files from two different pipelines that analyze NGS molecular
 
 
 
+![UPDATE_rought_draft_workflow drawio-10](https://user-images.githubusercontent.com/30676606/192154711-d704c3a0-b01b-4cf2-9e5d-f168ef5636b5.png)
 
-https://www.aacc.org/-/media/Images/Publications/CLN/Articles/2020/March/Figure-1.jpg?la=en&hash=0B5EE65F2E9017491275236556AF18EE060E764D![image](https://user-images.githubusercontent.com/30676606/192114699-49c69332-1efb-4882-a05d-828a4c71fb79.png)
 
+
+
+
+
+
+![Figure 1](https://user-images.githubusercontent.com/30676606/192154775-13d50339-2793-40ef-97b4-6a798d38f522.jpeg)
